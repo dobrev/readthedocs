@@ -46,11 +46,6 @@ print(f'my {a}nd line')
 
 # Admonitions
 
-```{code-block}
-```{important}
-Important text
-```
-```
 
 ```{important}
 Important text
