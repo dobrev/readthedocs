@@ -8,9 +8,17 @@ and offers a *simple* and *intuitive* API.
 Check out the {doc}`usage` section for further information, including
 how to {ref}`installation` the project.
 
-:::{note}
+```{admonition} Here's my title
+:class: note
+
 This project is under active development!
-:::
+```
+
+```{admonition} Tip 123
+:class: tip
+
+Using a configuration file is the recommended way of using Read the Docs.
+```
 
 ## Contents
 
