@@ -20,5 +20,6 @@ Contents
 
    usage
    api
+   myfile.md
 
 Lumache has its documentation hosted on Read the Docs.
