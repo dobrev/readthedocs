@@ -46,6 +46,30 @@ print(f'my {a}nd line')
 ```{note} Notes require **no** arguments, so content can start here.
 ```
 
+```{warning} Sample warning
 ```
-{warning} Sample warning
+
+```{attention} Sample attention
 ```
+
+```{caution} Sample caution
+```
+
+```{danger} Sample danger
+```
+
+```{error} Sample error
+```
+
+```{hint} Sample hint
+```
+
+```{important} Sample important
+```
+
+```{admonition} Sample admonition
+```
+
+Admonitions: attention, caution, danger, error, hint, important, note, tip, warning and the generic admonition. (Most themes style only “note” and “warning” specially.)
+
+![](https://miro.medium.com/max/742/1*fmVKSXsMpNehBn-dVovFdg.png)
