@@ -1,1 +1,2 @@
 myst-parser==0.17.0
+linkify-it-py=1.0.3

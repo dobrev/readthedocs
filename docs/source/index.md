@@ -33,3 +33,19 @@ myfile.md
 ```
 
 Lumache has its documentation hosted on Read the Docs.
+
+```{code-block} python
+:lineno-start: 10
+:emphasize-lines: 1, 3
+
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
+```{note} Notes require **no** arguments, so content can start here.
+```
+
+```
+{warning} Sample warning
+```
