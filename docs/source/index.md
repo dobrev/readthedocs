@@ -23,6 +23,11 @@ Using a configuration file is the recommended way of using Read the Docs.
 ## Contents
 
 ```{toctree}
+---
+caption: Section One
+maxdepth: 2
+hidden
+---
 usage
 api
 myfile.md
