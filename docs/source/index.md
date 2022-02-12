@@ -47,11 +47,27 @@ print(f'my {a}nd line')
 # Admonitions
 
 
+````
 ```{important}
 Important text
-Second line
 
-Third line
+Second line
+```
+````
+
+````{code-block}
+```{important}
+Important text
+
+Second line
+```
+````
+
+
+```{important}
+Important text
+
+Second line
 ```
 
 ```{tip}
