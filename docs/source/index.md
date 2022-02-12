@@ -60,20 +60,11 @@ terraform apply
 # Admonitions
 
 
-````
 ```{important}
 Important text
 
 Second line of important text
 ```
-````
-
-```{important}
-Important text
-
-Second line of important text
-```
-
 
 ```{tip}
 Tip text
@@ -83,32 +74,31 @@ Tip text
 Hint text
 ```
 
-
-```{attention} Sample attention
+```{warning} Sample warning
 ```
 
 ```{caution} Sample caution
 ```
 
-```{danger} Sample danger
+```{attention} Sample attention
 ```
 
 ```{error} Sample error
 ```
 
+```{danger} Sample danger
+```
+
 ```{note} Notes require **no** arguments, so content can start here.
 ```
 
-```{warning} Sample warning
+```{seealso}
+Trying see also out
 ```
 
 ```{admonition} Custom admonition
 This is the generic admonition type
 ```
 
-```{seealso}
-Trying see also out
-```
-Admonitions: attention, caution, danger, error, hint, important, note, tip, warning and the generic admonition. (Most themes style only “note” and “warning” specially.)
 
 ![](https://miro.medium.com/max/742/1*fmVKSXsMpNehBn-dVovFdg.png)
