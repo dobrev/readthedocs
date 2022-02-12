@@ -43,12 +43,6 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
-```{note} Notes require **no** arguments, so content can start here.
-```
-
-```{warning} Sample warning
-```
-
 ```{attention} Sample attention
 ```
 
@@ -67,7 +61,17 @@ print(f'my {a}nd line')
 ```{important} Sample important
 ```
 
-```{admonition} Sample admonition
+```{note} Notes require **no** arguments, so content can start here.
+```
+
+```{tip} Sample tip
+```
+
+```{warning} Sample warning
+```
+
+```{admonition} Custom admonition
+This is the generic admonition type
 ```
 
 Admonitions: attention, caution, danger, error, hint, important, note, tip, warning and the generic admonition. (Most themes style only “note” and “warning” specially.)
