@@ -26,9 +26,13 @@ Using a configuration file is the recommended way of using Read the Docs.
 :caption: Section One
 :maxdepth: 2
 
-usage
-api
-myfile.md
+section-one/usage
+section-one/api
+
+
+:caption: Section Two
+:maxdepth: 2
+section-two/myfile.md
 ```
 
 Lumache has its documentation hosted on Read the Docs.
