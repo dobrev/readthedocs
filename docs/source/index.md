@@ -28,10 +28,12 @@ Using a configuration file is the recommended way of using Read the Docs.
 
 section-one/usage
 section-one/api
+```
 
-
+```{toctree}
 :caption: Section Two
 :maxdepth: 2
+
 section-two/myfile.md
 ```
 
