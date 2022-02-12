@@ -74,6 +74,9 @@ print(f'my {a}nd line')
 This is the generic admonition type
 ```
 
+```{seealso}
+Trying see also out
+```
 Admonitions: attention, caution, danger, error, hint, important, note, tip, warning and the generic admonition. (Most themes style only “note” and “warning” specially.)
 
 ![](https://miro.medium.com/max/742/1*fmVKSXsMpNehBn-dVovFdg.png)
