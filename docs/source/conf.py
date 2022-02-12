@@ -35,6 +35,11 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_logo = 'https://i.pinimg.com/originals/58/1b/11/581b117cc49780379f8cdd844d1258ee.jpg'
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
