@@ -43,6 +43,30 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
+
+# Admonitions
+
+```{code-block}
+```{important}
+Important text
+```
+```
+
+```{important}
+Important text
+```
+
+```{tip}
+Tip text
+```
+
+```{hint}
+Hint text
+```
+
+
+
+
 ```{attention} Sample attention
 ```
 
@@ -55,16 +79,7 @@ print(f'my {a}nd line')
 ```{error} Sample error
 ```
 
-```{hint} Sample hint
-```
-
-```{important} Sample important
-```
-
 ```{note} Notes require **no** arguments, so content can start here.
-```
-
-```{tip} Sample tip
 ```
 
 ```{warning} Sample warning
