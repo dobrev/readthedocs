@@ -49,6 +49,14 @@ print(f'my {a}nd line')
 ```
 
 
+
+```{code-block} console
+terraform init
+terraform plan
+terraform apply
+```
+
+
 # Admonitions
 
 
@@ -56,24 +64,16 @@ print(f'my {a}nd line')
 ```{important}
 Important text
 
-Second line
+Second line of important text
 ```
 ````
-
-````{code-block}
-```{important}
-Important text
-
-Second line
-```
-````
-
 
 ```{important}
 Important text
 
-Second line
+Second line of important text
 ```
+
 
 ```{tip}
 Tip text
@@ -82,8 +82,6 @@ Tip text
 ```{hint}
 Hint text
 ```
-
-
 
 
 ```{attention} Sample attention
