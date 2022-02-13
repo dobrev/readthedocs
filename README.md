@@ -37,3 +37,6 @@ open build/html/index.html
 
 **Remotely**
 
+Read the Docs triggers a new build for:
+* every merge into the main branch
+* every new Pull Request
