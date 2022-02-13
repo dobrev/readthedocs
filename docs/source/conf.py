@@ -1,5 +1,14 @@
 # Configuration file for the Sphinx documentation builder.
 
+# -- Project information
+
+project = 'Dobrev RTD'
+copyright = 'Milen Dobrev'
+author = 'Milen Dobrev'
+
+release = '0.1'
+version = '0.1.0'
+
 # -- General configuration
 
 extensions = [

@@ -1,2 +1,2 @@
-myst-parser==0.17.0
-linkify-it-py==1.0.3
+myst-parser==0.16.1
+markdown-it-py[linkify]
